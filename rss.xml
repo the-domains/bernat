@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Bernat]]></title>
         <description><![CDATA[Bernat]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bernat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 19 Oct 2015 15:42:06 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 19 Oct 2015 15:43:03 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bernat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/bernat/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">b0395299-f509-4f06-9dfc-8c84fed1e969</guid>
-            <pubDate>Mon, 19 Oct 2015 15:40:52 GMT</pubDate>
+            <pubDate>Mon, 19 Oct 2015 15:41:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
